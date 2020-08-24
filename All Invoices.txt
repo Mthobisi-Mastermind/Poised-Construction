@@ -1,0 +1,32 @@
+
+	==========INVOICE==========
+	DATE: Fri May 08 14:30:47 CAT 2020
+Project number	    -  2
+Project name        -  Mthie House
+Total project fee   -  R838999.0
+Amount paid         -  R5363.0
+Amount due          -  R833636.0
+
+	==========INVOICE==========
+	DATE: Tue May 19 17:16:58 CAT 2020
+Project number	    -  1
+Project name        -  Mtho
+Total project fee   -  R127000.0
+Amount paid         -  R2990
+Amount due          -  R124010.0
+
+	==========INVOICE==========
+	DATE: Tue May 19 17:16:58 CAT 2020
+Project number	    -  1
+Project name        -  11
+Total project fee   -  R1233.0
+Amount paid         -  R231.0
+Amount due          -  R1002.0
+
+	==========INVOICE==========
+	DATE: Tue May 19 17:16:58 CAT 2020
+Project number	    -  1
+Project name        -  s
+Total project fee   -  R455.0
+Amount paid         -  R43.0
+Amount due          -  R412.0

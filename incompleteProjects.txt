@@ -1,0 +1,27 @@
+
+Project Number			- 4
+Project name			- Mtho
+Building Type			- House
+Project address			- 234 Square Street
+ERF Number			- 89
+Charged amount for project	- R800300.0
+Amount paid up to date		- R560000.0
+Start date			- Tue May 19 17:44:29 CAT 2020
+Deadline			- 12/06/2019 23:59:59
+Complete			- No
+ARCHITECT-
+	Name			- Martin
+	tel number		- 0874532178
+	Email address		- martin@gmail.com
+	Physical address	- 867 Station Hotel
+CONTRACTOR-
+	Name			- Tim
+	tel number		- 0925612346
+	Email address		- tim@gmail.com
+	Physical address	- 675 Dingiswayo Street, Goerge
+CUSTOMER DETAILS-
+	Name			- Mashabela
+	tel number		- 0117642389
+	Email address		- masheba@gmail.com
+	Physical address	- 34 Queenstiow
+==========

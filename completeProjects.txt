@@ -1,0 +1,109 @@
+
+
+Project Number			- 2
+Project name			- Mthie House
+Building Type			- House
+Project 	address		- 345 Sate Street
+ERF Number			- 73
+Charged amount for project	- R838999.0
+Amount paid up to date		- R5363.0
+Start date			- Fri May 08 14:13:44 CAT 2020
+Deadline			- 11/04/2020 23:59:59
+Complete			- Yes (Fri May 08 14:30:47 CAT 2020)
+ARCHITECT-
+	Name			- Sipho
+	tel number		- 0783383338
+	Email address		- sipho@gmail.com
+	Physical address	- 92 Kevin Street,
+CONTRACTOR			- 
+	Name			- trey
+	tel number		- 0937337337
+	Email address		- trey@gmail.com
+	Physical address	- 99 Court Ave, Denver Hostel, Soweto
+CUSTOMER DETAILS-
+	Name			- 34 Queens Ave, George West, George
+	tel number		- 0815436876
+	Email address		- queen@gmail.com
+	Physical address	- 3 Tax Street, Kimberley
+==========
+
+Project Number			- 1
+Project name			- Mtho
+Building Type			- 1
+Project address			- 42 Tien Road, George
+ERF Number			- 1
+Charged amount for project	- R127000.0
+Amount paid up to date		- R2990
+Start date			- Fri May 08 13:56:12 CAT 2020
+Deadline			- 12/09/2019 23:59:59
+Complete			- Yes (Tue May 19 17:16:58 CAT 2020)
+ARCHITECT-
+	Name			- Lennox
+	tel number		- 0117276373
+	Email address		- len@gmail.com
+	Physical address	- 242453
+CONTRACTOR-
+	Name			- Louis
+	tel number		- 0723452772
+	Email address		- louis@gmail.com
+	Physical address	- 67 Baduza Street, Knysna, Wc
+CUSTOMER DETAILS-
+	Name			- Timley
+	tel number		- 0874356217
+	Email address		- tim@gmail.com
+	Physical address	- 2398 Charles Street, GrootBrak River, George
+==========
+
+Project Number			- 3
+Project name			- 11
+Building Type			- res
+Project address			- wwew
+ERF Number			- 22
+Charged amount for project	- R1233.0
+Amount paid up to date		- R231.0
+Start date			- Tue May 19 16:29:53 CAT 2020
+Deadline			- 13/04/1211 23:59:59
+Complete			- Yes (Tue May 19 17:16:58 CAT 2020)
+ARCHITECT-
+	Name			- Teddu
+	tel number		- 0292882222
+	Email address		- tedd@
+	Physical address	- 13442
+CONTRACTOR-
+	Name			- 1
+	tel number		- 1111111111
+	Email address		- re@
+	Physical address	- erwr22
+CUSTOMER DETAILS-
+	Name			- wwwe
+	tel number		- 1111111111
+	Email address		- @
+	Physical address	- eew
+==========
+
+Project Number			- 5
+Project name			- s
+Building Type			- ee
+Project address			- 33
+ERF Number			- 4
+Charged amount for project	- R455.0
+Amount paid up to date		- R43.0
+Start date			- Tue May 19 17:09:37 CAT 2020
+Deadline			- 16/02/2018 23:59:59
+Complete			- Yes (Tue May 19 17:16:58 CAT 2020)
+ARCHITECT-
+	Name			- Mtho
+	tel number		- 0939293425
+	Email address		- mtho@gmail.com
+	Physical address	- 434 Street
+CONTRACTOR-
+	Name			- Steve
+	tel number		- 0937363333
+	Email address		- ateve@
+	Physical address	- 53Wet
+CUSTOMER DETAILS-
+	Name			- 1
+	tel number		- 1111111111
+	Email address		- 2@
+	Physical address	- 23WES
+==========
