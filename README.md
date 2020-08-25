@@ -20,7 +20,7 @@ The program stores the company data in a database (MySQL) The following can be d
 
 ## Screenshots
 ### Certain section of code behind program
-![get image1](https://github.com/Mthobisi-Mastermind/Screenshots/blob/master/Screenshot%202020-08-25%2001.53.53.png)
+![get image1](https://github.com/Mthobisi-Mastermind/Screenshots/blob/master/Screenshot%202020-08-25%2001.53.58.png)
 
 ### Partly output
 ![get image1](https://github.com/Mthobisi-Mastermind/Screenshots/blob/master/Screenshot%202020-04-04%2012.24.08.png)
